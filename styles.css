@@ -1,0 +1,12 @@
+@media (min-width: 576px) {
+   
+}
+
+@media (min-width: 992px) {
+    
+}
+
+.nav-link.active {
+    background-color: blue !important; /* Add !important to override Bootstrap styles */
+    color: white; /* Set the text color to white for better visibility */
+}
